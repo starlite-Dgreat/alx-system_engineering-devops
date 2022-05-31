@@ -1,0 +1,3 @@
+#!/bin/bash
+mv echo [A-Z]* /tmp/u
+
